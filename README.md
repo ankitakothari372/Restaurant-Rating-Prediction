@@ -42,3 +42,12 @@ Acknowledgements
 The data scraped was entirely for educational purposes only. Note that I don’t claim any copyright for the data. All copyrights for the data is owned by Zomato Media Pvt. Ltd..
 
             Source: Kaggle
+
+**Main Objective:**
+
+The main agenda of this project is:
+
+>> Perform extensive **Exploratory Data Analysis(EDA)** on the Zomato Dataset.
+
+>>Build an appropriate **Machine Learning Model** that will help various Zomato Restaurants to predict their respective Ratings based on certain features
+
